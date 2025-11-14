@@ -54,10 +54,9 @@ Our community is actively working on several open source projects—both those t
   - Token-weighted voting system where proposal types determine which tokens carry more weight in decision-making
 
 ### Additional Projects
-- Open source tools and utilities
-- Collaborative projects that benefit the community
-- Educational resources and learning materials
-- Infrastructure and automation tools
+- [Apollo](https://github.com/starspacegroup/Apollo)
+- [Dashboard](https://github.com/starspacegroup/Dashboard)
+- [TimeSpace Clock](https://github.com/starspacegroup/TimeSpace-Clock)
 
 ## 💡 Have an Idea?
 
