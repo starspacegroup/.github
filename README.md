@@ -2,6 +2,8 @@
 
 ***Space** is a collaborative co-working space where ideas flourish, projects come to life, and community thrives.
 
+🌐 **[Visit our website](https://starspace.group)** | 💬 **[Join our Discord](https://discord.gg/b7cjNQ7zB6)** (our main community space)
+
 ## 🌟 About Us
 
 *Space is more than just a co-working space—it's a community of makers, builders, creators, and innovators. We believe in the power of collaboration, open source, and shared knowledge. This organization serves as the digital hub for our community, bringing together projects, resources, and people who want to build something amazing together.
@@ -17,7 +19,7 @@ We encourage everyone to contribute, collaborate, and build with us! Here's how 
 - **Join discussions**: Participate in repository discussions and share your insights
 
 ### 💬 Discord
-Join our Discord community to connect with other members in real-time:
+**[Join our Discord](https://discord.gg/b7cjNQ7zB6)** — our main community space where you can connect with other members in real-time:
 - Get help with projects
 - Share ideas and get feedback
 - Collaborate on new initiatives
@@ -72,6 +74,10 @@ We love new ideas! Whether you want to start a new project, propose an improveme
 2. **Start a discussion** on GitHub Discussions
 3. **Reach out on Discord** to chat with community members
 4. **Submit a proposal** for community review
+
+## 🏢 Our Vision
+
+Our ultimate goal is to fund *Space through our open source projects and community initiatives, generating enough revenue to purchase real estate—ideally commercial or mixed-use live-work space. This will create a permanent physical home for our community where members can collaborate, build, and thrive together in person.
 
 ## 🙏 Thank You
 
