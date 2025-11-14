@@ -56,7 +56,7 @@ Our community is actively working on several open source projects—both those t
 ### Additional Projects
 - [Apollo](https://github.com/starspacegroup/apollo)
 - [Dashboard](https://github.com/starspacegroup/dashboard)
-- [TimeSpace Clock](https://github.com/starspacegroup/timespace-clock)
+- [SpaceTime Clock](https://github.com/starspacegroup/spacetime-clock)
 
 ## 💡 Have an Idea?
 
