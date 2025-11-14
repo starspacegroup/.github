@@ -40,13 +40,6 @@ We encourage everyone to contribute, collaborate, and build with us! Here's how 
 - **Support**: We help each other grow and succeed
 - **Respect**: We treat everyone with kindness and professionalism
 
-## 📚 Resources
-
-Looking to get started? Check out these resources:
-- [Contributing Guidelines](./CONTRIBUTING.md) - Learn how to contribute to our projects
-- [Code of Conduct](./CODE_OF_CONDUCT.md) - Understand our community standards
-- Community wiki - Tips, tutorials, and best practices (coming soon)
-
 ## 🎯 What We're Building
 
 Our community is actively working on several open source projects—both those that help the community and those that support *Space directly:
