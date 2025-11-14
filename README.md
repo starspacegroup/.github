@@ -1,6 +1,6 @@
 # ✨ Welcome to *Space
 
-**_Space_** is a collaborative co-working space where ideas flourish, projects come to life, and community thrives.
+***Space** is a collaborative co-working space where ideas flourish, projects come to life, and community thrives.
 
 ## 🌟 About Us
 
@@ -47,12 +47,22 @@ Looking to get started? Check out these resources:
 
 ## 🎯 What We're Building
 
-Our community is actively working on:
+Our community is actively working on several open source projects—both those that help the community and those that support *Space directly:
+
+### Current Focus
+- **Hermes** (eCommerce Platform): Our main project—an open source eCommerce platform currently in active development
+
+### Coming Soon
+- **DAO & Token System**: We're planning to launch a Decentralized Autonomous Organization (DAO) that enables members to participate in *Space governance:
+  - **SpaceTime Tokens**: Earned by contributing time to *Space
+  - **SpaceMoney Tokens**: Earned by contributing monetary funds to *Space
+  - Token-weighted voting system where proposal types determine which tokens carry more weight in decision-making
+
+### Additional Projects
 - Open source tools and utilities
 - Collaborative projects that benefit the community
 - Educational resources and learning materials
 - Infrastructure and automation tools
-- And much more!
 
 ## 💡 Have an Idea?
 
